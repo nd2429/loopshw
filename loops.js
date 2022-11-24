@@ -37,7 +37,19 @@
 
 
 //4.  Make variable age. Make a loop from 0-100. In every loop check if i == age, if so log something, else say “age doesn’t match”.
+// const myAge= 76;
+// for (let count= 0; count < 100; count++) {
 
+// if (count==myAge) {
+//   console.log ("You are 76");
+  
+// }
+//   else{
+
+//     console.log("age does not match");
+//   }
+// }
+// console.log(myAge)
 
 
 
